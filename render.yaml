@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: management
+    name: reconcillation
     buildCommand: "./build.sh"
     env: python
     startCommand:  "gunicorn core.wsgi:application"
