@@ -77,4 +77,5 @@ tzdata==2025.2
 uritemplate==4.1.1
 urllib3==2.2.2
 uvicorn==0.34.2
+whitenoise==6.9.0
 zipfile36==0.1.3
